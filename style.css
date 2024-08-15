@@ -58,8 +58,13 @@ ul li a {
     
   }
 
+.dropdown li a{
+    font-size: 14px;
+}
+
 ul li ul.dropdown li {
     display: block;
+    
   }
 
   ul li ul.dropdown {
