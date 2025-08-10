@@ -290,8 +290,9 @@ small{
     text-align: center;
 }
 .footer-colle-2 img{
-    width: 180px;
-    margin-bottom: 20px;
+    width: 100px;
+    margin-bottom: 5px;
+   
 }
 .footer-colle-3,.footer-colle-4{
     flex-basis: 12%;
