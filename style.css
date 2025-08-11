@@ -526,7 +526,7 @@ nav ul li a{
 }
 
 ul li ul.dropdown li {
-    display: block;
+    display: red;
     
   }
 
