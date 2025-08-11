@@ -520,6 +520,35 @@ nav ul li a{
         cursor: pointer;
     }
 
+
+.dropdown li a{
+    font-size: 14px;
+}
+
+ul li ul.dropdown li {
+    display: block;
+    
+  }
+
+  ul li ul.dropdown {
+    width: 7%;
+    background: lightgray;
+    position: absolute;
+    z-index: 999;
+    display: none;
+    
+  }
+  
+  ul li a:hover {
+    background: lightgrey;
+  }
+  
+  ul li:hover ul.dropdown {
+    display: block;
+  }
+
+
+
 .colle-2 h1{
     font-size: 30px;
 }
