@@ -532,7 +532,7 @@ ul li ul.dropdown li {
 
   ul li ul.dropdown {
     width: 3%;
-    background: lightgray;
+    background: yellow;
     position: absolute;
     z-index: 999;
     display: none;
@@ -540,7 +540,7 @@ ul li ul.dropdown li {
   }
   
   ul li a:hover {
-    background: lightgrey;
+    background: blue;
   }
   
   ul li:hover ul.dropdown {
