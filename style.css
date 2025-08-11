@@ -522,7 +522,7 @@ nav ul li a{
 
 
 .dropdown li a{
-    font-size: 25px;
+    font-size: 7px;
 }
 
 ul li ul.dropdown li {
@@ -531,8 +531,8 @@ ul li ul.dropdown li {
   }
 
   ul li ul.dropdown {
-    width: 3%;
-    background: yellow;
+    width: 7%;
+    background: Lightgrey;
     position: absolute;
     z-index: 999;
     display: none;
@@ -540,7 +540,7 @@ ul li ul.dropdown li {
   }
   
   ul li a:hover {
-    background: blue;
+    background: lightgrey;
   }
   
   ul li:hover ul.dropdown {
